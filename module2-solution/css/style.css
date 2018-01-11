@@ -18,6 +18,8 @@ h1 {
     float: right;
     border: 1px solid black;
     padding: 5px;
+    font-weight: bold;
+    font-size: 140%
   }
 
 #box2 {
@@ -25,6 +27,8 @@ h1 {
     float: right;
     border: 1px solid black;
     padding: 5px;
+    font-weight: bold;
+    font-size: 140%
   }
 
 #box3 {
@@ -32,6 +36,8 @@ h1 {
     float: right;
     border: 1px solid black;
     padding: 5px;
+    font-weight: bold;
+    font-size: 140%
   }
 
 p {
