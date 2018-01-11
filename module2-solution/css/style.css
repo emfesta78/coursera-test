@@ -2,6 +2,11 @@ h1 {
   text-align: center;
 }
 
+#box {
+    background-color: #DEB887;
+    float: right;
+  }
+
 
 /********** Large devices only **********/
 @media (min-width: 992px) {
