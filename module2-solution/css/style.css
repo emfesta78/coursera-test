@@ -7,6 +7,10 @@ h1 {
     float: right;
   }
 
+/* Simple Responsive Framework. */
+.row {
+    width: 100%;
+  }  
 
 /********** Large devices only **********/
 @media (min-width: 992px) {
@@ -98,4 +102,6 @@ h1 {
 
   /********** Small devices only **********/
   @media (max-width: 767px) {
+    float: left;
+    border: 1px solid green;
   }
