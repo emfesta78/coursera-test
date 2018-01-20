@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+  }
+
+
+/** HEADER **/
+#header-nav { 
+    background-color: #b4ae9f;
+    border-radius: 0;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    margin-bottom: 20px;
+  }
+    
+.navbar-brand h1 { /**Food, LLC **/
+    color: #080807;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 0px;
+    line-height: .75;
+    padding-left: 20px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+
+#nav-list {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+#nav-list a {
+    color: rgb(12, 11, 12);
+    font-weight: bold;
+    text-align: center;
+    background: rgb(228, 215, 215);
+    border: 1px solid black
+}
+/** BODY **/
+h2 {  /** Our Menu **/
+    
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+#chicken { /**Chicken**/
+    text-align: center;
+    font-size: 1.3em;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.container-fluid {
+    padding: 10px;
+    background-color: #b4ae9f;
+    
+}
+
+.container-fluid p {
+    margin: 15px;
+}
+
+#content {
+    margin: 20px;
+}
